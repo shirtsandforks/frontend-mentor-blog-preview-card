@@ -1,0 +1,5 @@
+@font-face {
+  font-family: "Figtree";
+  src: url(../fonts/Figtree-VariableFont_wght.ttf) format("truetype"),
+    url("../fonts/OFL.txt") format("woff");
+}
